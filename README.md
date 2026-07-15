@@ -56,8 +56,6 @@ A technical framework designed to help NGOs and local social organizations autom
 
 ### 📊 GitHub Activity & Insights
 
-### 📊 GitHub Activity & Insights
-
 <div align="center">
   <!-- Swapped to a high-reliability, community-hosted stable endpoint -->
   <img src="https://github-readme-stats.shion.dev/api?username=Aryavardhan-singh&show_icons=true&theme=tokyonight&count_private=true" alt="Aryavardhan's GitHub Stats" />
