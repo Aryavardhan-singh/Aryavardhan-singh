@@ -72,5 +72,5 @@ A technical framework designed to help NGOs and local social organizations autom
 
 <div align="center">
   <br />
-  <img src="https://cb-count.vercel.app/api/counter?username=Aryavardhan-singh&theme=cyberpunk" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=Aryavardhan-singh&color=00f2fe&style=pixel&label=PROFILE+VIEWS" alt="Visitor Counter" />
 </div>
