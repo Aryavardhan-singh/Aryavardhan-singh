@@ -2,6 +2,9 @@
   <!-- Rainy, lofi coder banner with smoke trail and glowing screen -->
   <img src="https://api.gifyu.com/images/S0fUo.gif" width="100%" alt="Cyberpunk Coder Rain Banner" />
 </div>
+  <!-- Rainy, lofi coder banner with smoke trail and glowing screen -->
+  <img src="https://api.gifyu.com/images/S0fUo.gif" width="100%" alt="Cyberpunk Coder Rain Banner" />
+</div>
   <!-- Dynamic, high-tech typing banner using your actual credentials -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Aryavardhan+Singh;B.Tech+CSE+@+Amity+University;Oracle+Certified+AI+Professional;IoT+%26+Generative+AI+Developer" alt="Typing SVG" />
 </div>
