@@ -1,8 +1,4 @@
-<div align="center">
-</div>
-  <!-- Dynamic, high-tech typing banner using your actual credentials -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Aryavardhan+Singh;B.Tech+CSE+@+Amity+University;Oracle+Certified+AI+Professional;IoT+%26+Generative+AI+Developer" alt="Typing SVG" />
-</div>
+242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif
 
 # 👋 Hi, I'm Aryavardhan Singh!
 
