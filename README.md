@@ -1,4 +1,7 @@
-
+<div align="center">
+  <!-- Pulls your uploaded Kirokaze GIF directly from your repository -->
+  <img src="ezgif.com-gif-maker.gif" width="100%" alt="Kirokaze Late Sleep" />
+</div>
 
 # 👋 Hi, I'm Aryavardhan Singh!
 
