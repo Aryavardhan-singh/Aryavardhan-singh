@@ -1,6 +1,4 @@
 <div align="center">
-  <!-- Kirokaze - Late Sleep Pixel Art Banner -->
-  <img src="https://cdna.artstation.com/p/assets/images/images/065/459/642/original/kirokaze-pixel-late-sleep.gif?1690373415" width="100%" alt="Kirokaze Late Sleep" />
 </div>
   <!-- Dynamic, high-tech typing banner using your actual credentials -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Aryavardhan+Singh;B.Tech+CSE+@+Amity+University;Oracle+Certified+AI+Professional;IoT+%26+Generative+AI+Developer" alt="Typing SVG" />
