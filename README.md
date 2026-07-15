@@ -67,10 +67,16 @@ A technical framework designed to help NGOs and local social organizations autom
 
 ### 🤝 Let's Connect!
 
-* 💼 **LinkedIn:** https://www.linkedin.com/in/aryavardhan-singh-0325472b7/ 
+### 🤝 Let's Connect!
 
-
-<div align="center">
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=Aryavardhan-singh&color=00f2fe&style=pixel&label=PROFILE+VIEWS" alt="Visitor Counter" />
+<div align="left">
+  <!-- Clickable LinkedIn Badge -->
+  <a href="https://www.linkedin.com/in/aryavardhan-singh-0325472b7/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  <!-- Clickable Mailto Gmail Badge -->
+  <a href="mailto:choudharyaryavardhan020606@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </div>
