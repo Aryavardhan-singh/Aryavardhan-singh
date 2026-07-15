@@ -56,12 +56,13 @@ A technical framework designed to help NGOs and local social organizations autom
 
 ### 📊 GitHub Activity & Insights
 
-<div align="center">
-  <!-- Swapped to a high-reliability, community-hosted stable endpoint -->
-  <img src="https://github-readme-stats.shion.dev/api?username=Aryavardhan-singh&show_icons=true&theme=tokyonight&count_private=true" alt="Aryavardhan's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryavardhan-singh&theme=tokyonight" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <!-- Live Stats - Forces GitHub to refresh your data every 30 minutes instead of caching it for days -->
+  <img src="https://github-readme-stats.shion.dev/api?username=Aryavardhan-singh&show_icons=true&theme=radical&hide_border=true&title_color=00F2FE&icon_color=00F2FE&text_color=ffffff&bg_color=0d1117&cache_seconds=1800" height="150" alt="Aryavardhan's Stats" />
+  
+  <!-- Live Streak - Forces dynamic streak updates -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryavardhan-singh&theme=radical&hide_border=true&stroke=00F2FE&background=0d1117&ring=00F2FE&fire=00F2FE&cache_seconds=1800" height="150" alt="Aryavardhan's Streak" />
+</p>
 
 ---
 
