@@ -54,16 +54,16 @@ A technical framework designed to help NGOs and local social organizations autom
 
 ---
 
-### 📊 GitHub Activity & Insights
+### 🐍 My Contribution Snake
 
-<p align="center">
-  <!-- Live Stats - Forces GitHub to refresh your data every 30 minutes instead of caching it for days -->
-  <img src="https://github-readme-stats.shion.dev/api?username=Aryavardhan-singh&show_icons=true&theme=radical&hide_border=true&title_color=00F2FE&icon_color=00F2FE&text_color=ffffff&bg_color=0d1117&cache_seconds=1800" height="150" alt="Aryavardhan's Stats" />
-  
-  <!-- Live Streak - Forces dynamic streak updates -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryavardhan-singh&theme=radical&hide_border=true&stroke=00F2FE&background=0d1117&ring=00F2FE&fire=00F2FE&cache_seconds=1800" height="150" alt="Aryavardhan's Streak" />
-</p>
-
+<picture>
+  <!-- Shows a dark-themed snake on dark mode -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryavardhan-singh/Aryavardhan-singh/output/github-contribution-grid-snake-dark.svg">
+  <!-- Shows a light-themed snake on light mode -->
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aryavardhan-singh/Aryavardhan-singh/output/github-contribution-grid-snake.svg">
+  <!-- Fallback -->
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Aryavardhan-singh/Aryavardhan-singh/output/github-contribution-grid-snake.svg">
+</picture>
 ---
 
 ### 🤝 Let's Connect!
