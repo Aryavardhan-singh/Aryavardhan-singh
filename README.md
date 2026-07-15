@@ -66,8 +66,8 @@ A technical framework designed to help NGOs and local social organizations autom
 
 ### 🤝 Let's Connect!
 
-* 💼 **LinkedIn:** [linkedin.com/in/your-linkedin-username](https://linkedin.com) *(Update with your link)*
-* 🌐 **Organization:** [RAioT Labs Website](https://github.com) *(Update with your link)*
+* 💼 **LinkedIn:** https://www.linkedin.com/in/aryavardhan-singh-0325472b7/ *(Update with your link)*
+
 
 <div align="center">
   <br />
