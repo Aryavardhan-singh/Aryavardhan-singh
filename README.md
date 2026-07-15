@@ -1,9 +1,6 @@
 <div align="center">
-  <!-- Rainy, lofi coder banner with smoke trail and glowing screen -->
-  <img src="https://api.gifyu.com/images/S0fUo.gif" width="100%" alt="Cyberpunk Coder Rain Banner" />
-</div>
-  <!-- Rainy, lofi coder banner with smoke trail and glowing screen -->
-  <img src="https://api.gifyu.com/images/S0fUo.gif" width="100%" alt="Cyberpunk Coder Rain Banner" />
+  <!-- Dynamic, high-quality pixel art lofi coder banner with rain & cigarette smoke -->
+  <img src="https://raw.githubusercontent.com/AnuragHazra/AnuragHazra/master/assets/pixel-cozy.gif" width="100%" alt="Rainy Lofi Coder" />
 </div>
   <!-- Dynamic, high-tech typing banner using your actual credentials -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Aryavardhan+Singh;B.Tech+CSE+@+Amity+University;Oracle+Certified+AI+Professional;IoT+%26+Generative+AI+Developer" alt="Typing SVG" />
