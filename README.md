@@ -66,7 +66,7 @@ A technical framework designed to help NGOs and local social organizations autom
 
 ### 🤝 Let's Connect!
 
-* 💼 **LinkedIn:** https://www.linkedin.com/in/aryavardhan-singh-0325472b7/ *(Update with your link)*
+* 💼 **LinkedIn:** https://www.linkedin.com/in/aryavardhan-singh-0325472b7/ 
 
 
 <div align="center">
